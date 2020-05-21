@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: #02095e;
+    opacity: 100%;
+}
+.navbar .navbar-nav .nav-item .nav-link{
+    color: cornsilk;
+    font-weight: bold;
+}
+.divv{
+    font-size: 2rem;
+    background-color: black;
+    color: blanchedalmond;
+    width: 100%;
+    height: 250px;
+    padding: 120px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+.div1{
+    width: 50%;
+    height: 120px;
+    margin-top: 30px;
+    background-color: chartreuse;
+    color: black;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div2{
+    width: 50%;
+    height: 120px;
+    margin-top: 30px;
+    background-color: blue;
+    color: black;
+    font-weight: bolder;
+}
+.div3{
+    width: 50%;
+    height: 120px;
+    margin-top: 30px;
+    background-color: red;
+    color: black;
+    font-weight: bolder;
+    opacity: 90%;
+}
+.div4{
+    width: 50%;
+    height: 120px;
+    margin-top: 30px;
+    background-color: #EDBC00;
+    color: black;
+    font-weight: bolder;
+}
+.div5{
+    width: 50%;
+    height: 120px;
+    margin-top: 30px;
+    background-color:#800080;
+    color: black;
+    font-weight: bolder;
+}
+.contact{
+    width: 100%;
+    height: 210px;
+    margin-top: 30px;
+    padding: 1%;
+    background-color:#005688;
+    color: white;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.con{
+    padding-top: 3%;
+    padding-left: 30%;
+}
+.btn{
+    background-color: grey;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.footer{
+    width: 100%;
+    max-height: max-content;
+    background: #232021;
+    color: white;
+    font-size: 14px;
+    top: 83rem;
+    position: absolute;
+  }
+  
+.footer-info,.footer-contact{
+    top: 20px;
+    flex-shrink: initial;
+    display: -ms-flexbox;
+    
+}
+.footer-links{
+    top: 20px;
+    margin-left: 80px;
+}
+.copyright{
+    margin-top: 2%;
+}
+.name{
+    color: #ffc107;
+}
