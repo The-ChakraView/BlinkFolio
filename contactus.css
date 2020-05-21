@@ -1,12 +1,29 @@
 body{
     margin: 0;
     padding: 0;
+    background: url(back.jpg);
 }
 .navbar{
-    background-color: #02095e;
+  
     opacity: 100%;
 }
 .navbar .navbar-nav .nav-item .nav-link{
-    color: cornsilk;
+    color: black;
     font-weight: bold;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+hr{
+    background-color: white;
+}
+.contactform{
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    margin-top: 80px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 3px grey;
+    transition: all 4s ease-in-out;
+}
+.btn{
+    margin-top: 2%;
 }
